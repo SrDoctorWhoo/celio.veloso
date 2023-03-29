@@ -1,2 +1,0 @@
-# celio.veloso
-Portfolio
